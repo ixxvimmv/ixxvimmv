@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on **personal projects** to grow my portfolio  <br>
 - 🌱 Learning more about **Web Development, Databases, and APIs**  <br>
 - 💡 I love turning **ideas into code** and solving real-world problems  <br>
-- 🎯 Goal for 2025: Build and deploy at least **3 full-stack applications**  <br>
+- 🎯 Goal for 2026: Build and deploy at least **3 full-stack applications**  <br>
 - ⚡ Fun fact: I enjoy blending **design & development** to make clean, user-friendly apps  
 
 
